@@ -1,0 +1,13 @@
+#include "Empleado.h"
+
+typedef struct LISTA
+{
+    Empleado * h;
+    Empleado * t;
+}ListaEmpleados;
+
+
+ListaEmpleados * crearLista ();
+void agregar (ListaEmpleados * t, Empleado * p);
+ListaEmpleados * borrar (ListaEmpleados * r, char * nombre);
+void imprimirLista (ListaEmpleados * d);

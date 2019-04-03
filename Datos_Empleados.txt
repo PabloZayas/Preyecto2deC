@@ -1,0 +1,20 @@
+
+Nombre del empleado: juan
+Nombre de usuario: loco
+Área del empleado: Ventas
+
+
+Nombre del empleado: perro
+Nombre de usuario: lalaa
+Área del empleado: Ventas
+
+
+Nombre del empleado: juan
+Nombre de usuario: loco
+Área del empleado: Administrador
+
+
+Nombre del empleado: pablo
+Nombre de usuario: perrrp
+Área del empleado: Administrador
+

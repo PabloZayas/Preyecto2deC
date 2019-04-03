@@ -1,0 +1,10 @@
+
+Nombre del articulo: jabon
+Nombre del articulo: jabon
+Costo: 
+Precio de venta: 
+Cantidad en el inventario: 
+Nombre del articulo: 343
+Costo: 
+Precio de venta: 
+Cantidad en el inventario: 

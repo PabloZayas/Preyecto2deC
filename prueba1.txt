@@ -1,0 +1,12 @@
+
+
+
+Nombre del empleado: pablo
+Nombre de usuario: perro
+Área del empleado: Ventas
+
+
+Nombre del empleado: baltazar
+Nombre de usuario: balta
+Área del empleado: Compras
+
